@@ -1,4 +1,10 @@
+[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/openwrt2020)
+<a href="#readme">
+    <img src="https://img.vim-cn.com/69/df015dc73fc71da07c3264766e8032ac042fed.png" alt="图飞了😂" title="opentopd" align="right" height="180" />
+</a>
 
+欢迎来到sirpdboy的源码仓库！
+=
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
 ### 恩山链接 ：https://www.right.com.cn/forum/thread-4059320-1-1.html

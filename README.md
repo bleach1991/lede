@@ -3,7 +3,7 @@
     <img src="https://img.vim-cn.com/69/df015dc73fc71da07c3264766e8032ac042fed.png" alt="图飞了😂" title="opentopd" align="right" height="180" />
 </a>
 
-欢迎来到sirpdboy的源码仓库！
+欢迎来到bleach1991的源码仓库！
 =
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 

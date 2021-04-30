@@ -62,8 +62,7 @@
 
 ### 固件下载地址：[![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#固件下载-)
 
-**http下载（拒绝百度云）**
-**https://imgs.mpdn.fun:8443/lede/x86_64/**
+**下载链接：https://imgs.mpdn.fun:8443/lede/x86_64/**
 
 **谷歌云下载链接：https://drive.google.com/drive/folders/1g2ROF2M9ZsUEgGHm-Mo3Ap5m4Azr9zk9?usp=sharing**
 

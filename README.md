@@ -75,13 +75,14 @@
 
 
 ![xm1](img/plus/all.png)
-![xm1](img/plus/状态.JPG)
-![xm1](img/plus/系统.JPG)
-![xm1](img/plus/服务.JPG)
-![xm1](img/plus/网络存储.JPG)
-![xm1](img/plus/vpn.JPG)
-![xm1](img/plus/网络.JPG)
-![xm1](img/plus/带宽监控.JPG)
+![xm1](img/概览.JPG)
+![xm1](img/实时监控.JPG)
+![xm1](img/ttyd.JPG)
+![xm1](img/hello.JPG)
+![xm1](img/passwall.JPG)
+![xm1](img/ssr.JPG)
+![xm1](img/实时流量监测.JPG)
+![xm1](img/下载先看.png)
 
 **感谢LEAN大，感谢Lienol大 等大神分享源码，你可以随意使用其中的源码，但请注明出处。**
 

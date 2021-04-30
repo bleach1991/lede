@@ -6,7 +6,7 @@
 
 欢迎来到bleach1991的源码仓库！
 =
-[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件说明-F5F5F5.svg)](#固件说明-) [![](https://img.shields.io/badge/-登陆信息-F5F5F5.svg)](#登陆信息-) [![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#固件下载-) [![](https://img.shields.io/badge/-固件定制-F5F5F5.svg)](#固件定制-) [![](https://img.shields.io/badge/-固件介绍-F5F5F5.svg)](#固件介绍-) [![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-) 
+[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件说明-F5F5F5.svg)](#固件说明-) [![](https://img.shields.io/badge/-登陆信息-F5F5F5.svg)](#登陆信息-)  [![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#固件下载-) [![](https://img.shields.io/badge/-固件定制-F5F5F5.svg)](#固件定制-) [![](https://img.shields.io/badge/-固件介绍-F5F5F5.svg)](#固件介绍-) [![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-) 
 ------------------------------------------------------
 
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
@@ -77,7 +77,7 @@
 
 ---------------------------------------------------------------------------------------
 
-### 固件下载：[![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#固件下载-)
+### 固件下载 [![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#固件下载-) 
 
 **x86_64下载链接：https://imgs.mpdn.fun:8443/lede/x86_64/**
 

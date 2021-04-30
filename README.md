@@ -6,6 +6,9 @@
 
 欢迎来到bleach1991的源码仓库！
 =
+[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件说明-F5F5F5.svg)](#固件说明-) [![](https://img.shields.io/badge/-登陆信息-F5F5F5.svg)](#登陆信息-) [![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#固件下载-) [![](https://img.shields.io/badge/-固件定制-F5F5F5.svg)](#固件定制-) [![](https://img.shields.io/badge/-固件介绍-F5F5F5.svg)](#固件介绍-)[![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-) 
+------------------------------------------------------
+
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
 ### 恩山链接 ：https://www.right.com.cn/forum/thread-4059320-1-1.html
@@ -109,7 +112,7 @@
 --------------------------------------------------------------
 
 
-## 说明 [![](https://img.shields.io/badge/-说明-F5F5F5.svg)](#说明-)
+## 固件介绍 [![](https://img.shields.io/badge/-固件介绍-F5F5F5.svg)](#固件介绍-)
 
 
 ![xm1](img/plus/all.png)

@@ -11,7 +11,8 @@
 
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
-### 恩山链接 ：https://www.right.com.cn/forum/thread-4059320-1-1.html
+### 恩山链接x86 ：https://www.right.com.cn/forum/thread-4059320-1-1.html
+### 恩山链接R2S-R4S ：https://www.right.com.cn/forum/thread-4066849-1-1.html
 ------------------------------------------------------
 
 ## 【免责声明】
@@ -23,7 +24,7 @@
 
 ----------------------------------------------------
 
-***本固件基于lean大佬的源码编译，外加一些额外的软件包，主要使用源码如下：***
+**本固件基于lean大佬的源码编译，外加一些额外的软件包，主要使用源码如下：**
 
 ### https://github.com/coolsnowwolf/lede
 ### https://github.com/kenzok8/openwrt-packages.git

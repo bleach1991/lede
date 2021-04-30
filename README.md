@@ -73,7 +73,7 @@
 
 ## 说明 [![](https://img.shields.io/badge/-说明-F5F5F5.svg)](#说明-)
 
-源码来源：https://github.com/sirpdboy/sirpdboy-package
+
 
 ![xm1](doc/登陆页面.jpg)
 
@@ -83,21 +83,6 @@
 
 **感谢LEAN大，感谢Lienol大 等大神分享源码，你可以随意使用其中的源码，但请注明出处。**
 
-# My other project
-
-网络速度测试 ：https://github.com/sirpdboy/NetSpeedTest
-
-定时关机重启 : https://github.com/sirpdboy/luci-app-autotimeset
-
-关机功能插件 : https://github.com/sirpdboy/luci-app-poweroffdevice
-
-opentopd主题 : https://github.com/sirpdboy/luci-theme-opentopd
-
-opentoks 主题: https://github.com/sirpdboy/luci-theme-opentoks [仿KOOLSAHRE主题]
-
-btmob 主题: https://github.com/sirpdboy/luci-theme-btmob
-
-系统高级设置 : https://github.com/sirpdboy/luci-app-advanced
 
 ## 捐助 [![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-) 
 
@@ -107,7 +92,7 @@ btmob 主题: https://github.com/sirpdboy/luci-theme-btmob
 
 ### 捐助方式
 
-|     <img src="https://img.shields.io/badge/-支付宝-F5F5F5.svg" href="#赞助支持本项目-" height="25" alt="图飞了😂"/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图飞了😂" href="#赞助支持本项目-"/>  | 
+|     <img src="https://user-images.githubusercontent.com/47608286/116705490-2a844c00-a9ff-11eb-9b90-8e7378aae332.jpg" href="#赞助支持本项目-" height="25" alt="图飞了😂"/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图飞了😂" href="#赞助支持本项目-"/>  | 
 | :-----------------: | :-------------: |
 |<img src="https://img.vim-cn.com/fd/8e2793362ac3510094961b04407beec569b2b4.png" width="150" height="150" alt="图飞了😂" href="#赞助支持本项目-"/>|<img src="https://img.vim-cn.com/c7/675730a88accebf37a97d9e84e33529322b6e9.png" width="150" height="150" alt="图飞了😂" href="#赞助支持本项目-"/>|
 

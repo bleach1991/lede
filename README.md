@@ -82,7 +82,6 @@
 ![xm1](img/passwall.JPG)
 ![xm1](img/ssr.JPG)
 ![xm1](img/实时流量监测.JPG)
-![xm1](img/下载先看.png)
 
 **感谢LEAN大，感谢Lienol大 等大神分享源码，你可以随意使用其中的源码，但请注明出处。**
 

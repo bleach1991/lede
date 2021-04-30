@@ -1,4 +1,3 @@
-![微信 - 副本](https://user-images.githubusercontent.com/47608286/116706724-800d2880-aa00-11eb-9997-9a899a63fb35.png)
 ![](https://visitor-badge.glitch.me/badge?page_id=bleach1991-visitor-badge)
 [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/openwrt2020)
 

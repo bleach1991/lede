@@ -76,10 +76,13 @@
 
 
 ![xm1](img/plus/状态.JPG)
-
-![xm2](doc/实时监控.jpg)
-
-![xm3](doc/手机画面.jpg)
+![xm1](img/plus/系统.JPG)
+![xm1](img/plus/服务.JPG)
+![xm1](img/plus/dockerman.JPG)
+![xm1](img/plus/网络存储.JPG)
+![xm1](img/plus/vpn.JPG)
+![xm1](img/plus/网络.JPG)
+![xm1](img/plus/带宽监控.JPG)
 
 **感谢LEAN大，感谢Lienol大 等大神分享源码，你可以随意使用其中的源码，但请注明出处。**
 

@@ -78,7 +78,6 @@
 ![xm1](img/plus/状态.JPG)
 ![xm1](img/plus/系统.JPG)
 ![xm1](img/plus/服务.JPG)
-![xm1](img/plus/dockerman.JPG)
 ![xm1](img/plus/网络存储.JPG)
 ![xm1](img/plus/vpn.JPG)
 ![xm1](img/plus/网络.JPG)

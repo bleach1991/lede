@@ -25,17 +25,16 @@
 ### https://github.com/coolsnowwolf/lede
 ### https://github.com/kenzok8/openwrt-packages.git
 ### https://github.com/jerrykuku/openwrt-package.git
+### https://github.com/sirpdboy/sirpdboy-package.git
 ### https://github.com/destan19/OpenAppFilter.git
 ### https://github.com/fw876/helloworld.git
 ### https://github.com/frainzy1477/luci-app-clash.git
 ### https://github.com/xiaorouji/openwrt-passwall.git
 ### https://github.com/rufengsuixing/luci-app-adguardhome.git
 ### https://github.com/AlexZhuo/luci-app-bandwidthd.git
-### https://github.com/sirpdboy/luci-app-advanced.git
 ### https://github.com/esirplayground/luci-app-poweroff.git
 ### https://github.com/tty228/luci-app-serverchan.git
 ### https://github.com/honwen/luci-app-aliddns.git
-### https://github.com/sirpdboy/luci-theme-opentopd.git
 ### https://github.com/openwrt-develop/luci-theme-atmaterial.git
 ### https://github.com/lisaac/luci-app-dockerman.git
 

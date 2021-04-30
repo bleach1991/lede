@@ -81,7 +81,9 @@
 **定制链接：http://openwrt2020.mikecrm.com/y3E3EtB**
 
 **联系我：**
+
 **电报：https://t.me/yxw1991**
+**qq：http://wpa.qq.com/msgrd?v=3&uin=2637183346&site=qq&menu=yes**
 
 
 

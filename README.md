@@ -75,7 +75,7 @@
 
 
 
-![xm1](doc/登陆页面.jpg)
+![xm1](img/plus/状态.JPG)
 
 ![xm2](doc/实时监控.jpg)
 

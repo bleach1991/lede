@@ -74,7 +74,7 @@
 ## 说明 [![](https://img.shields.io/badge/-说明-F5F5F5.svg)](#说明-)
 
 
-![xm1](img/plus/all.JPG)
+![xm1](img/plus/all.png)
 ![xm1](img/plus/状态.JPG)
 ![xm1](img/plus/系统.JPG)
 ![xm1](img/plus/服务.JPG)

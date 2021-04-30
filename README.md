@@ -1,9 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bleach1991-visitor-badge)
 [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/openwrt2020)
-<a href="#readme">
-    <img src="https://img.vim-cn.com/69/df015dc73fc71da07c3264766e8032ac042fed.png" alt="图飞了😂" title="opentopd" align="right" height="180" />
-</a>
-![openwrt](https://user-images.githubusercontent.com/47608286/116703707-2820f280-a9fd-11eb-8ae4-3b94cf89bddc.png)
+![openwrt](https://user-images.githubusercontent.com/47608286/116703960-6fa77e80-a9fd-11eb-8077-f38610a4babc.png)
+
 
 欢迎来到bleach1991的源码仓库！
 =

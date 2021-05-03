@@ -107,7 +107,7 @@
 
 **电报：https://t.me/yxw1991**
 
-**qq：http://wpa.qq.com/msgrd?v=3&uin=2637183346&site=qq&menu=yes**
+**qq：(2637183346) http://wpa.qq.com/msgrd?v=3&uin=2637183346&site=qq&menu=yes**
 
 
 

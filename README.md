@@ -117,7 +117,7 @@
 ## 固件介绍 [![](https://img.shields.io/badge/-固件介绍-F5F5F5.svg)](#固件介绍-)
 
 
-![xm1](img/plus/all.png)
+![xm1](img/plus/plus.jpg)
 ![xm1](img/概览.JPG)
 ![xm1](img/实时监控.JPG)
 ![xm1](img/ttyd.JPG)

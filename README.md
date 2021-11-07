@@ -81,9 +81,9 @@
 
 ### 固件下载 [![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#固件下载-) 
 
-**x86_64下载链接：https://imgs.mpdn.fun:8443/lede/x86_64/**
+**x86_64下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/x86_64/**
 
-**R2S,R4S下载链接：https://imgs.mpdn.fun:8443/lede/rockchip/**
+**R2S,R4S下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/rockchip/**
 
 **谷歌云下载链接：https://drive.google.com/drive/folders/1g2ROF2M9ZsUEgGHm-Mo3Ap5m4Azr9zk9?usp=sharing**
 

@@ -12,7 +12,7 @@
 
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
-### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-5458392-1-1.html
+### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-7048868-1-1.html
 ### 恩山链接R2S-R4S ：https://www.right.com.cn/forum/thread-5870286-1-1.html
 ------------------------------------------------------
 

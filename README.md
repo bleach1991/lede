@@ -85,6 +85,10 @@
 
 **R2S,R4S下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/rockchip/**
 
+**Redmi-AC2100下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/mtk/**
+
+**树莓派Raspberry Pi 4下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/bcm/**
+
 **谷歌云下载链接：https://drive.google.com/drive/folders/1g2ROF2M9ZsUEgGHm-Mo3Ap5m4Azr9zk9?usp=sharing**
 
 **加入固件电报群：https://t.me/openwrt2020**

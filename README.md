@@ -1,5 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bleach1991-visitor-badge)
-[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/openwrt2020)
+[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
 [![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=lfcyGD-_eo4nIm2FL32dmEQHMOmH-tpv&jump_from=webapi)
 
 ![openwrt](https://user-images.githubusercontent.com/47608286/116703960-6fa77e80-a9fd-11eb-8077-f38610a4babc.png)
@@ -152,5 +152,5 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图飞了😂" title="返回顶部" align="right"/>
 </a>
 
-[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/openwrt2020)
+[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
 [![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=lfcyGD-_eo4nIm2FL32dmEQHMOmH-tpv&jump_from=webapi)

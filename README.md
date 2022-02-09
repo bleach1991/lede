@@ -14,7 +14,7 @@
 
 ### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-7048868-1-1.html
 ### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-7807773-1-1.html
-### 恩山链接R2S-R4S ：https://www.right.com.cn/forum/thread-5870286-1-1.html
+### 恩山链接R2S-R4S ：https://www.right.com.cn/forum/thread-8099741-1-1.html
 ### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-7770086-1-1.html
 ------------------------------------------------------
 

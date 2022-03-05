@@ -14,7 +14,7 @@
 
 ### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-7048868-1-1.html
 ### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-7807773-1-1.html
-### 恩山链接R2S-R4S ：https://www.right.com.cn/forum/thread-8099741-1-1.html
+### 恩山链接R2S/R2C/R4S ：https://www.right.com.cn/forum/thread-8099741-1-1.html
 ### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-7770086-1-1.html
 ------------------------------------------------------
 
@@ -153,4 +153,4 @@
 </a>
 
 [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
-[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=lfcyGD-_eo4nIm2FL32dmEQHMOmH-tpv&jump_from=webapi)
+[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=NB9s63ysnFQ--znOyuMSmLauNcp4-Ui5&jump_from=webapi)

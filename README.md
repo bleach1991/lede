@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bleach1991-visitor-badge)
 [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
-[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=lfcyGD-_eo4nIm2FL32dmEQHMOmH-tpv&jump_from=webapi)
+[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=DxyP1vPT1abLcj24dgXkRwI-eMj3WZJ7&jump_from=webapi)
 
 ![openwrt](https://user-images.githubusercontent.com/47608286/116703960-6fa77e80-a9fd-11eb-8077-f38610a4babc.png)
 
@@ -14,7 +14,7 @@
 
 ### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-8236842-1-1.html
 ### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-7807773-1-1.html
-### 恩山链接R2S/R2C/R4S ：https://www.right.com.cn/forum/thread-8099741-1-1.html
+### 恩山链接R2S/R2C/R4S/NEO3 ：https://www.right.com.cn/forum/thread-8099741-1-1.html
 ### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-7770086-1-1.html
 ------------------------------------------------------
 
@@ -85,7 +85,7 @@
 
 **x86_64下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/x86_64/**
 
-**R2S,R4S下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/rockchip/**
+**R2S/R2C/R4S/NEO3下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/rockchip/**
 
 **Xiaomi_(Redmi/mi)-AC2100下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/mtk/**
 
@@ -153,4 +153,4 @@
 </a>
 
 [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
-[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=NB9s63ysnFQ--znOyuMSmLauNcp4-Ui5&jump_from=webapi)
+[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=DxyP1vPT1abLcj24dgXkRwI-eMj3WZJ7&jump_from=webapi)

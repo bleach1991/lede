@@ -13,9 +13,9 @@
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
 ### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-8236842-1-1.html
-### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-7807773-1-1.html
+### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-8246507-1-1.html
 ### 恩山链接R2S/R2C/R4S/NEO3 ：https://www.right.com.cn/forum/thread-8099741-1-1.html
-### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-7770086-1-1.html
+### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-8246509-1-1.html
 ------------------------------------------------------
 
 ## 【免责声明】
@@ -61,7 +61,7 @@
 ---------------------------------------------------
 **主要提供x86_64及R2S，R4S固件**
 
-**固件主要分为高大全版(plus)，稳定版(stable)和自用版(self)**
+**固件主要分为高大全版(plus)和精简版(mini)**
 
 **文件下载请看文件夹名称下载**
 

@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bleach1991-visitor-badge)
 [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
-[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=DxyP1vPT1abLcj24dgXkRwI-eMj3WZJ7&jump_from=webapi)
+[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=zqlN1N9mkYMXCr6fHtnHApQFNmCEj_kV&jump_from=webapi)
 
 ![openwrt](https://user-images.githubusercontent.com/47608286/116703960-6fa77e80-a9fd-11eb-8077-f38610a4babc.png)
 
@@ -153,4 +153,4 @@
 </a>
 
 [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
-[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=DxyP1vPT1abLcj24dgXkRwI-eMj3WZJ7&jump_from=webapi)
+[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=zqlN1N9mkYMXCr6fHtnHApQFNmCEj_kV&jump_from=webapi)

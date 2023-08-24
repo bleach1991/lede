@@ -13,7 +13,8 @@
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
 ### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-8293351-1-1.html
-### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-8274162-1-1.html
+### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-8301260-1-1.html
+### 恩山链接Xiaomi_Redmi-AX6000 ：https://www.right.com.cn/forum/thread-8301380-1-1.html
 ### 恩山链接R2S/R2C/R4S/NEO3 ：https://www.right.com.cn/forum/thread-8293464-1-1.html
 ### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-8246509-1-1.html
 ------------------------------------------------------

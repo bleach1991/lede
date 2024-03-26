@@ -13,10 +13,10 @@
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
 ### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-8315616-1-1.html
-### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-8347528-1-1.html
 ### 恩山链接Xiaomi_Redmi-AX6000 ：https://www.right.com.cn/forum/thread-8347529-1-1.html
+### 恩山链接Xiaomi_(Redmi/Mi)-AC2100 ：https://www.right.com.cn/forum/thread-8347528-1-1.html
 ### 恩山链接R2S/R4S/R5S/R66S/R68S ：https://www.right.com.cn/forum/thread-8315617-1-1.html
-### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-8246509-1-1.html
+### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-8350565-1-1.html
 ------------------------------------------------------
 
 ## 【免责声明】
@@ -87,6 +87,8 @@
 **x86_64下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/x86_64/**
 
 **R2S/R4S/R5S/R66S/R68S下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/rockchip/**
+
+**Xiaomi_Redmi-AX6000下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/mtk/**
 
 **Xiaomi_(Redmi/mi)-AC2100下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/mtk/**
 

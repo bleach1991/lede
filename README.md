@@ -12,12 +12,12 @@
 
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
-### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-8379745-1-1.html
-### 恩山链接Xiaomi_Redmi-AX6000 ：https://www.right.com.cn/forum/thread-8379756-1-1.html
-### 恩山链接Xiaomi_(Redmi/Mi)-AC2100 ：https://www.right.com.cn/forum/thread-8379752-1-1.html
-### 恩山链接R2S/R4S/R5S/R66S/R68S ：https://www.right.com.cn/forum/thread-8379747-1-1.html
-### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-8379758-1-1.html
-### 恩山链接JDCloud ER1/AX6600/AX1800PRO ：https://www.right.com.cn/forum/thread-8406685-1-1.html
+### 恩山链接x86_64 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433584&fromuid=559447
+### 恩山链接Xiaomi_Redmi-AX6000 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433587&fromuid=559447
+### 恩山链接Xiaomi_(Redmi/Mi)-AC2100 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433586&fromuid=559447
+### 恩山链接R2S/R4S/R5S/R66S/R68S ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433585&fromuid=559447
+### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8379758&fromuid=559447
+### 恩山链接JDCloud ER1/AX6600/AX1800PRO ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433588&fromuid=559447
 ------------------------------------------------------
 
 ## 【免责声明】

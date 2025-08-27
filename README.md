@@ -128,14 +128,23 @@
 ## 固件介绍 [![](https://img.shields.io/badge/-固件介绍-F5F5F5.svg)](#固件介绍-)
 
 
-![xm1](img/plus/plus.jpg)
-![xm1](img/概览.JPG)
-![xm1](img/实时监控.JPG)
-![xm1](img/ttyd.JPG)
-![xm1](img/hello.JPG)
-![xm1](img/passwall.JPG)
-![xm1](img/ssr.JPG)
-![xm1](img/实时流量监测.JPG)
+![xm1](img/menu/large-plus-20250623.png)
+![xm1](img/menu/large-mini-20250623.png)
+![xm1](img/plugin/01-状态-概览.png)
+![xm1](img/plugin/01-状态-实时监控.png)
+![xm1](img/plugin/02-系统-TTYD 终端.png)
+![xm1](img/plugin/00-iStore-全部软件.png)
+![xm1](img/plugin/03-Docker-概览.png)
+![xm1](img/plugin/04-服务-PassWall.png)
+![xm1](img/plugin/04-服务-PassWall 2.png)
+![xm1](img/plugin/04-服务-OpenClash.png)
+![xm1](img/plugin/04-服务-ShadowSocksR Plus+.png)
+![xm1](img/plugin/04-服务-MosDNS.png)
+![xm1](img/plugin/04-服务-应用过滤.png)
+![xm1](img/plugin/04-服务-雷神加速器.png)
+![xm1](img/plugin/05-管控-集客AC控制器.png)
+![xm1](img/plugin/08-网络-Turbo ACC 网络加速.png)
+![xm1](img/plugin/09-带宽监控-实时流量监测.png)
 
 **感谢LEAN大，感谢Lienol大 等大神分享源码，你可以随意使用其中的源码，但请注明出处。**
 

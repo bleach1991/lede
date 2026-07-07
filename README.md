@@ -12,12 +12,12 @@
 
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
-### 恩山链接x86_64 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433584&fromuid=559447
-### 恩山链接Xiaomi_Redmi-AX6000 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433587&fromuid=559447
-### 恩山链接Xiaomi_(Redmi/Mi)-AC2100 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433586&fromuid=559447
-### 恩山链接R2S/R4S/R5S/R66S/R68S ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433585&fromuid=559447
+### 恩山链接x86_64 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480683&fromuid=559447
+### 恩山链接Xiaomi_Redmi-AX6000 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480686&fromuid=559447
+### 恩山链接Xiaomi_(Redmi/Mi)-AC2100 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480687&fromuid=559447
+### 恩山链接R2S/R4S/R5S/R66S/R68S ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480680&fromuid=559447
 ### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8379758&fromuid=559447
-### 恩山链接JDCloud ER1/AX6600/AX1800PRO ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8433588&fromuid=559447
+### 恩山链接JDCloud ER1/AX6600/AX1800PRO ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480684&fromuid=559447
 ------------------------------------------------------
 
 ## 【免责声明】
@@ -31,21 +31,70 @@
 
 **本固件基于lean大佬的源码编译，外加一些额外的软件包，主要使用源码如下：**
 
-### https://github.com/coolsnowwolf/lede
-### https://github.com/kenzok8/openwrt-packages.git
-### https://github.com/jerrykuku/openwrt-package.git
-### https://github.com/sirpdboy/sirpdboy-package.git
-### https://github.com/destan19/OpenAppFilter.git
-### https://github.com/fw876/helloworld.git
-### https://github.com/frainzy1477/luci-app-clash.git
-### https://github.com/xiaorouji/openwrt-passwall.git
-### https://github.com/rufengsuixing/luci-app-adguardhome.git
-### https://github.com/AlexZhuo/luci-app-bandwidthd.git
-### https://github.com/esirplayground/luci-app-poweroff.git
-### https://github.com/tty228/luci-app-serverchan.git
-### https://github.com/honwen/luci-app-aliddns.git
-### https://github.com/openwrt-develop/luci-theme-atmaterial.git
-### https://github.com/lisaac/luci-app-dockerman.git
+- https://github.com/0x676e67/luci-app-design-config.git
+- https://github.com/0x676e67/luci-theme-design.git
+- https://github.com/AlexZhuo/luci-app-bandwidthd.git
+- https://github.com/BoringCat/luci-app-mentohust.git
+- https://github.com/BoringCat/luci-app-minieap.git
+- https://github.com/BoringCat/minieap-openwrt.git
+- https://github.com/CHN-beta/rkp-ipid.git
+- https://github.com/destan19/OpenAppFilter.git
+- https://github.com/EasyTier/luci-app-easytier.git
+- https://github.com/esirplayground/luci-app-poweroff.git
+- https://github.com/frainzy1477/luci-app-clash.git
+- https://github.com/FUjr/QModem.git
+- https://github.com/fw876/helloworld.git
+- https://github.com/garypang13/luci-theme-edge.git
+- https://github.com/ghosthgytop/luci-app-npc.git
+- https://github.com/hejiadong0608/luci-app-msd_lite.git
+- https://github.com/honwen/luci-app-aliddns.git
+- https://github.com/iwrt/luci-app-ikoolproxy.git
+- https://github.com/jerrykuku/go-aliyundrive-webdav.git
+- https://github.com/jerrykuku/lua-maxminddb.git
+- https://github.com/jerrykuku/luci-app-argon-config.git
+- https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav.git
+- https://github.com/jerrykuku/luci-theme-argon.git
+- https://github.com/kiddin9/luci-app-dnsfilter.git
+- https://github.com/linkease/istore.git
+- https://github.com/lucikap/luci-app-ua2f.git
+- https://github.com/lwb1978/openwrt-gecoosac.git
+- https://github.com/mchome/luci-app-dogcom.git
+- https://github.com/mchome/openwrt-dogcom.git
+- https://github.com/miaoermua/luci-app-leigod-acc.git
+- https://github.com/MilesPoupart/luci-app-vssr.git
+- https://github.com/NateLol/luci-app-bearDropper.git
+- https://github.com/NONGFAH/luci-app-athena-led.git
+- https://github.com/openwrt-develop/luci-theme-atmaterial.git
+- https://github.com/Openwrt-Passwall/openwrt-passwall2.git
+- https://github.com/Openwrt-Passwall/openwrt-passwall.git
+- https://github.com/Openwrt-Passwall/openwrt-passwall-packages.git
+- https://github.com/ParticleG/luci-app-macvlan.git
+- https://github.com/pymumu/luci-app-smartdns.git
+- https://github.com/pymumu/openwrt-smartdns.git
+- https://github.com/QiuSimons/luci-app-daed.git
+- https://github.com/QiuSimons/luci-app-dae.git
+- https://github.com/QiuSimons/vmlinux-btf.git
+- https://github.com/riverscn/openwrt-iptvhelper.git
+- https://github.com/rosywrt/luci-theme-rosy.git
+- https://github.com/rufengsuixing/luci-app-adguardhome.git
+- https://github.com/sbwml/luci-app-alist.git
+- https://github.com/sbwml/luci-app-mosdns.git
+- https://github.com/selfcan/luci-app-homebox.git
+- https://github.com/selfcan/luci-app-onliner.git
+- https://github.com/sirpdboy/luci-app-advanced.git
+- https://github.com/sirpdboy/luci-app-chatgpt-web.git
+- https://github.com/sirpdboy/luci-app-cupsd.git
+- https://github.com/sirpdboy/luci-app-ddns-go.git
+- https://github.com/sirpdboy/luci-app-eqosplus.git
+- https://github.com/sirpdboy/luci-app-partexp.git
+- https://github.com/sirpdboy/luci-theme-opentopd.git
+- https://github.com/sirpdboy/netspeedtest.git
+- https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns.git
+- https://github.com/thinktip/luci-theme-neobird.git
+- https://github.com/tty228/luci-app-serverchan.git
+- https://github.com/vernesong/OpenClash.git
+- https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
+- https://github.com/Zxilly/UA2F.git
 
 
 ### 固件说明 [![](https://img.shields.io/badge/-固件说明-F5F5F5.svg)](#固件说明-) 

@@ -12,12 +12,19 @@
 
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
-### 恩山链接x86_64 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480683&fromuid=559447
-### 恩山链接Xiaomi_Redmi-AX6000 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480686&fromuid=559447
-### 恩山链接Xiaomi_(Redmi/Mi)-AC2100 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480687&fromuid=559447
-### 恩山链接R2S/R4S/R5S/R66S/R68S ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480680&fromuid=559447
-### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8379758&fromuid=559447
-### 恩山链接JDCloud ER1/AX6600/AX1800PRO ：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480684&fromuid=559447
+### 恩山链接 x86_64 ：
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480683&fromuid=559447
+### 恩山链接 红米AX6000/小米AX3000T/WR30U/多酷TR3000/磊科N60PRO/360T7/NX30PRO 等 mt798x设备 ：
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480686&fromuid=559447
+### 恩山链接 小米AC2100/红米AC2100/小米CR660X/小米R3G/NEWIFI-D2 等 mt7621设备 ：
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480687&fromuid=559447
+### 恩山链接 R2S/R2C/R4S/R5S/R66S/R68S 等 rockchip设备 ：
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480680&fromuid=559447
+### 恩山链接 Raspberry Pi 4/5 ：
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8379758&fromuid=559447
+### 恩山链接 JDCloud ER1/AX6600/AX1800PRO 小米AX3600/AX9000 等 Qualcomm设备 ：
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8480684&fromuid=559447
+
 ------------------------------------------------------
 
 ## 【免责声明】
